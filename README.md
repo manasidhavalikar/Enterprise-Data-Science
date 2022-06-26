@@ -10,6 +10,10 @@ Delivery 2 : Figure 2 The vaccination rate (percentage of the population) over t
 
 Source code file : Covid19_initial_task.ipynb
 
+
+
 Infection Rate : infection_rate.png
+
+
 
 Vaccination Rate : vaccination_rate.png
