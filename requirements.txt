@@ -12,3 +12,4 @@ dash
 pandas
 numpy
 plotly
+sklearn
